@@ -7,4 +7,4 @@ const company = new Company
 let customMap = new CustomMap('map')
 
 customMap.addMarker(user)
-customMap.addMarker(company)
+customMap.addMarker(company) 
