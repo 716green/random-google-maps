@@ -14,7 +14,8 @@ export class CustomMap {
   
   constructor(divId: string) {
     this.googleMap = new google.maps.Map(document.getElementById(divId), {
-      zoom: 3.5,
+      zoom: 4,
+      backgroundColor: 'black',
       center: {
         lat: 35,
         lng: -95
