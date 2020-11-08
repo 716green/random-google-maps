@@ -3,7 +3,7 @@
 parcel index.html
 ```
 
-
+![map](map.JPG)
 
 # Notes
 **Classes**
